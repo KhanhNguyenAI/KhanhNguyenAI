@@ -5,6 +5,8 @@ and Natural Language Processing, and I am currently continuing to deepen my know
 
 ## 🌐Socials
 https://www.linkedin.com/in/khanh-nguyen-b5854435b/
+
+
 https://www.facebook.com/profile.php?id=61575501615310
 
 # 💻Tech Stack
