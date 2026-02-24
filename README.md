@@ -1,4 +1,5 @@
 # 💫About Me :
+https://khanhnguyenai.github.io/portfolio/
 I am a college student majoring in AI at Nihon Kogakuin College of Hachioji.
 I have studied the basics of Data Science, Machine Learning, Computer Vision, 
 and Natural Language Processing, and I am currently continuing to deepen my knowledge in Machine Learning.
