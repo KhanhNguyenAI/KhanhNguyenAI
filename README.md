@@ -3,7 +3,10 @@ https://khanhnguyenai.github.io/portfolio/
 
 就職サポートアプリ（個人プロジェクト）
 https://project-nu-gold.vercel.app/
-
+競技判定疑似体験アプリ — パラパワーリフティング2026の公式判定シミュレーター
+https://khanhnguyenai.github.io/Para-powerlifting-2026/
+EC-site
+https://github.com/KhanhNguyenAI/oldshop
 ## 🌐Socials
 https://www.linkedin.com/in/khanh-nguyen-b5854435b/
 
