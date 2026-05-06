@@ -22,7 +22,8 @@ Currently based in Japan, I enjoy creating projects that solve real-world proble
 | **Portfolio** | Personal portfolio website | [View](https://khanhnguyenai.github.io/portfolio/) |
 | **就職サポートアプリ** | Job-hunting support app (personal project) | [View](https://project-nu-gold.vercel.app/) |
 | **パラパワーリフティング 2026** | Official judging simulator for Para Powerlifting 2026 | [View](https://khanhnguyenai.github.io/Para-powerlifting-2026/) |
-| **EC-site** | E-commerce website | [View](https://github.com/KhanhNguyenAI/oldshop) |
+| **EC-shopping** | E-commerce website | [View](https://github.com/KhanhNguyenAI/oldshop) |
+| **Book** | E-commerce website | [View](https://github.com/KhanhNguyenAI/book) |
 
 ---
 
